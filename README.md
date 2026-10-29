@@ -105,3 +105,5 @@ Please support me with a one-time or a monthly donation and help me continue my 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
 
 **Free Software, Hell Yeah!**
+
+- [BrightWire News](https://www.brightwire.news) - Indie AI-curated positive journalism platform with neural audio narration and a free [AI Tech Stack Advisor](https://www.brightwire.news/tech-stack) for builders.
